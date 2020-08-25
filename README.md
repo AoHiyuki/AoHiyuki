@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<img src="./sister2.jpg" alt="me" align="left" width="150px">
+<img src="https://github.com/AoHiyuki/AoHiyuki/blob/master/sister2.jpg" alt="me" align="left" width="160px">
 
 ### 💬 About me:
- - I use computer, I learn some programming.
+ - I learn some programming.
  - I watch anime.
- - Then I eat and sleep.
+ - I eat and sleep.
+ - And I love FOSS.
