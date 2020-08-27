@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/AoHiyuki/AoHiyuki/blob/master/sister2.jpg" alt="me" align="left" width="150px">
+<img src="https://github.com/AoHiyuki/AoHiyuki/blob/master/images/sister2.png" alt="me" align="left" width="150px">
 
 ### 💬 About me:
  - I learn some programming.
