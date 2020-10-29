@@ -20,3 +20,11 @@
     src="https://img.shields.io/badge/-NixOS-informational?style=for-the-badge&logo=nixos&logoColor=white&color=5277C3"
   />
 </p>
+
+<details>
+<summary></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AoHiyuki&show_icons=true&hide=stars&hide_border=true&icon_color=5277c3&title_color=5277c3&text_color=2e3440" alt="AoHiyuki's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoHiyuki&hide_border=true&title_color=5277c3&text_color=2e3440&layout=compact" alt="AoHiyuki's top languages"/>
+  </p>
+</details>
